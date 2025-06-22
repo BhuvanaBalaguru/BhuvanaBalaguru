@@ -6,7 +6,7 @@
 🛠️ Skilled in Python, C++, Pandas, Scikit-learn, and more
 
 ### 🌟 Projects Highlights
-- 🩺 **Liver Disease Prediction** – Used ElasticNet, SMOTE, and stacking ensembles (80% accuracy!)
+- 🩺 **Liver Disease Prediction** – Used ElasticNet, SMOTE, and stacking ensembles
 - 🧠 **Alzheimer’s Disease Classification** – CNN & WCNN models on MRI data
 
 - ### 💡 Fun Facts
