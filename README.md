@@ -2,8 +2,8 @@
 
 🎓 B.Tech Computer Science student at **SASTRA Deemed University**  
 🧠 Passionate about **Machine Learning**, **Software development**, and **Security**  
-💻 Working on projects in ML, DL, and Cryptography  
-🛠️ Skilled in Python, C++, Pandas, Scikit-learn, and more
+💻 Worked on projects in ML and DL 
+🛠️ Skilled in C/C++, Python, and Data analytics.
 
 ### 🌟 Projects Highlights
 - 🩺 **Liver Disease Prediction** – Used ElasticNet, SMOTE, and stacking ensembles
